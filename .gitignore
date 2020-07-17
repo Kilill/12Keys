@@ -1,0 +1,6 @@
+.pio
+.pioenvs
+src/.vscode
+src/.pio
+src/.travis.yml
+
